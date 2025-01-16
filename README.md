@@ -1,2 +1,4 @@
-# 225-newfiles1
-Pared down version of 225 starter files. 
+# Hello! I'm dog. 
+
+These are 225-newfiles. 
+I hope you enjoy. 
